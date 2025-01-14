@@ -44,9 +44,12 @@ div {
     border-right: 0px;
     border-bottom-width: 2px white;
 }
+.blue h2
+{ color: #c4c4c4;}
 .blue {
     background-color: #0000FF;
     text-align: left;
+    color: #c4c4c4;
     margin-right: 50px;
     border-right-width: 5px;
     border-left: 0px;
